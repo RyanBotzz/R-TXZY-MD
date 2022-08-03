@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6282xxxxxx'] 
-global.mods = ['6282xxxxxx'] 
-global.prems = ['6282xxxxxx'] 
+global.owner = ['6285xxxxxx'] 
+global.mods = ['6285xxxxxx'] 
+global.prems = ['6285xxxxxx'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = '⫹⫺ Creator Bot ~'
-global.numberowner = '6282xxxxxx'
-global.instagram = 'https://instagram.com/prm2.0'
+global.numberowner = '6285xxxxxx'
+global.instagram = 'https://instagram.com/rangga_botz'
 global.github = 'https://github.com/BOTCAHX'
-global.dana = '6282xxxxxx'
-global.pulsa = '6282xxxxxx'
+global.dana = '6285xxxxxx'
+global.pulsa = '6285xxxxxx'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'BOTCAHX'
+global.namebot = 'HANZBOTZ'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
