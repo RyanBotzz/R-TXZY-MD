@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6285xxxxxx'] 
-global.mods = ['6285xxxxxx'] 
-global.prems = ['6285xxxxxx'] 
+global.owner = ['6285779150501'] 
+global.mods = ['6285779150501'] 
+global.prems = ['6285779150501'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = '⫹⫺ Creator Bot ~'
-global.numberowner = '6285xxxxxx'
+global.numberowner = '6285779150501'
 global.instagram = 'https://instagram.com/rangga_botz'
-global.github = 'https://github.com/BOTCAHX'
-global.dana = '6285xxxxxx'
-global.pulsa = '6285xxxxxx'
+global.github = 'https://github.com/RyanBotzz'
+global.dana = '6285779150501'
+global.pulsa = '6285779150501'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
 global.namebot = 'HANZBOTZ'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/JCgXlfkzK6p6xIYk5ij0Pa'
+global.web = 'https://youtube.com/channel/UCs8sFcihqsye35hnom6CEXQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,22 +23,22 @@ global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© HANZ-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ HANZ-MD'
+global.wm3 = '© HANZ-MD'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
-global.wait = '_*Tunggu sedang di proses...*_'
+global.wait = '_*Tunggu sedang di proses Tod🗿*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nHANZ-MD'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
