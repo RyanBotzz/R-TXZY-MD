@@ -64,7 +64,7 @@ Hello *%name* , Here my command list.
   after: `
 ──···────────────────···──
 
-Base Script : *R-TXZY-MD*
+Base Script : HANZ-MD*
 Recode Script : *Private*
 
  © HanzBot 
