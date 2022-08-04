@@ -58,6 +58,16 @@ function start(file) {
       fs.unwatchFile(args[0])
       start(file)
     })
+
+antical = true
+kurr.on("CB:Call", json => {
+if (antical === false) return
+let call;
+calling = JSON.parse(JSON.stringify(json))
+call = calling[1].from
+kurr.sendMessage(call, `*Sorry ${hanz.user.name} can't receive calls.*\n*Call = Block!*`, MessageType.text)
+.then(() => hanz.blockUser(call, "add"))
+})
   })
   let opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
   if (!opts['test'])
